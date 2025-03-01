@@ -23,7 +23,7 @@
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/98a13244ca77b460e9db8c9fee56423f.png" width="200">
 
 
-### **Minhas certificações**
+### **Minhas certificações:**
 <div align="center">
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/Certiprof_Scrum.png" width="200">
 <div>
