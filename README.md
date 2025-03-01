@@ -10,9 +10,9 @@
 
 ### **Meu plano de estudos:**
 
-|                     Mês 01                       |Mês 02|Mês 03|Mês 04|Mês 05|
-|--------------------------------------------------|------|------|------|------|
-| Mês 1: Fundamentos (Linux, Redes, Git, Scripting)|||||
+          |                     Mês 01                       |
+|------------------------------------------------------------|
+|Semana 01|Fundamentos (Linux, Redes, Git, Scripting)
 
 
 ### **O que já estudei:**
