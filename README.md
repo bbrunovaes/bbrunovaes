@@ -12,14 +12,14 @@
 
 - Mês 01: Fundamentos Essenciais - Linux, Redes, Git, Scripting
 
-  - Semana 01: Linux Básico
+  - ~~Semana 01: Linux Básico~~
       -  Comandos essenciais: ls, cd, cp, mv, rm, chmod, chown, grep, awk, sed
       -  Gerenciamento de processos: ps, top, kill, htop, systemctl
       -  Permissões de arquivos (chmod, chown, groups)
       -  Estrutura de diretórios do Linux
       -  Criar primeiros scripts em Bash
 
-  - Semana 02: Redes & Protocolos
+  - ~~Semana 02: Redes & Protocolos~~
       - Conceitos de TCP/IP, DNS, HTTP/HTTPS, SSH, FTP
       - Comandos de rede: ping, traceroute, netstat, nmap, tcpdump
       - Configuração de firewall básico (iptables, ufw)
@@ -49,34 +49,34 @@
       - Arquitetura do Kubernetes
       - Introdução ao Minikube
       
-  - Semana 7 - Infraestrutura como Código (IaC) com Terraform
+    - Semana 7 - Infraestrutura como Código (IaC) com Terraform
       - O que é IaC e como o Terraform funciona
       - Criar e gerenciar recursos na AWS/Azure/GCP com Terraform
       - Conceitos de State e Modules
 
- - Semana 8 - Automação com Ansible
+  - Semana 8 - Automação com Ansible
       - Fundamentos do Ansible
       - Criar Playbooks para configuração de servidores
       - nstalar pacotes e gerenciar permissões automaticamente
 
 - Mês 3: Monitoramento, Logging e CI/CD
 
- - Semana 9 - Monitoramento com Prometheus e Grafana
+  - Semana 9 - Monitoramento com Prometheus e Grafana
       - Introdução ao Prometheus
       - Criar métricas customizadas
       - Configurar Grafana para visualização de dados
 
- - Semana 10 - Logging com ELK Stack (Elasticsearch, Logstash, Kibana)
+  - Semana 10 - Logging com ELK Stack (Elasticsearch, Logstash, Kibana)
       - Instalar e configurar o ELK Stack
       - Enviar logs de containers para Elasticsearch
       - Criar alertas no Kibana
 
- - Semana 11 - CI/CD com Jenkins e GitHub Actions
+  - Semana 11 - CI/CD com Jenkins e GitHub Actions
       - Criar um pipeline básico no Jenkins
       - Introdução ao GitHub Actions
       - Automação de builds e deploys
 
- - Semana 12 - ArgoCD e GitOps
+  - Semana 12 - ArgoCD e GitOps
       - Conceitos de GitOps
       - Configuração do ArgoCD para Kubernetes
       - Deploy contínuo baseado em repositório Git
@@ -87,22 +87,22 @@
       - EC2, S3, IAM, Lambda
       - Configurar e gerenciar infraestrutura na AWS
 
- - Semana 14 - Azure e GCP para DevOps
+  - Semana 14 - Azure e GCP para DevOps
       - Conceitos básicos das plataformas
       - Criar máquinas virtuais e storage
 
- - Semana 15 - DevSecOps e Segurança na Nuvem
+  - Semana 15 - DevSecOps e Segurança na Nuvem
       - Introdução ao DevSecOps
       - Ferramentas de segurança: Trivy, Snyk, OWASP ZAP
       - Hardening de Containers e Kubernetes
 
- - Semana 16 - Gestão de Identidade e Acessos (IAM)
+  - Semana 16 - Gestão de Identidade e Acessos (IAM)
       - Princípios de segurança de identidade
       - Criar usuários e permissões seguras na AWS/Azure/GCP
 
 - Mês 5: Projetos Práticos e Certificações
 
- - Semana 17-20 - Projeto Final + Preparação para Certificações
+  - Semana 17-20 - Projeto Final + Preparação para Certificações
       - Criar um projeto real:
       - Criar uma aplicação em containers
       - Configurar CI/CD
