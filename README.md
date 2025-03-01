@@ -11,19 +11,26 @@
 ### **Meu plano de estudos:**
 
 - Mês 01: Fundamentos Essenciais - Linux, Redes, Git, Scripting
-  - Semana 01:
+  - Semana 01: Linux Básico
       -  Comandos essenciais: ls, cd, cp, mv, rm, chmod, chown, grep, awk, sed
       -  Gerenciamento de processos: ps, top, kill, htop, systemctl
       -  Permissões de arquivos (chmod, chown, groups)
       -  Estrutura de diretórios do Linux
       -  Criar primeiros scripts em Bash
-  - Semana 02:
+  - Semana 02: Redes & Protocolos
       - Conceitos de TCP/IP, DNS, HTTP/HTTPS, SSH, FTP
-      - Comandos de rede: <ping>, traceroute, netstat, nmap, tcpdump
+      - Comandos de rede: ping, traceroute, netstat, nmap, tcpdump
       - Configuração de firewall básico (iptables, ufw)
       - Introdução a Proxy e VPN 
-  - Semana 03:
-  - Semana 04: 
+  - Semana 03: Controle de Versão (Git & GitHub)
+      - Fundamentos do Git (branches, commits, merge, rebase)
+      - Criar um repositório no GitHub/GitLab
+      - Entender GitFlow e Pull Requests
+      - Trabalhar com Git em equipe
+  - Semana 04: Scripting com Bash & Pytho
+      - Criar scripts para automação de tarefas
+      - Python básico (manipulação de arquivos, JSON, APIs)
+      - Trabalhar com paramiko (automatizar SSH)
 - Mês 02: Redes e protocolos
   - 
 
