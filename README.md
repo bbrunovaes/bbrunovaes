@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 <!-- CABEÇALHO -->
-#TITULO 1
-##TITULO 2
-###TITULO 3
-####TITULO 4
-#####TITULO 5
-######TITULO 6
+#Titulo 1
+##Titulo 2
+###Titulo 3
+####Titulo 4
+#####Titulo 5
+######Titulo 6
 
 _ITALICO_ *ITALICO*
 __NEGRITO__ **NEGRITO**
