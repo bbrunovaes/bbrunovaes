@@ -10,7 +10,7 @@
 
 ### **Meu plano de estudos:**
 
-- **Mês 01: Fundamentos Essenciais - Linux, Redes, Git, Scripting**
+- <span style="color:red">**Mês 01: Fundamentos Essenciais - Linux, Redes, Git, Scripting**</span>
 
   - ~~Semana 01: Linux Básico~~
       -  Comandos essenciais: ls, cd, cp, mv, rm, chmod, chown, grep, awk, sed
