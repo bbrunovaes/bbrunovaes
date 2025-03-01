@@ -10,6 +10,12 @@
 
 ### Aqui, você encontrará projetos e aprendizados que refletem minha evolução como profissional de tecnologia. Vamos trocar conhecimentos!
 
+
+### Tecnologias que já estudei
+<img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/kisspng-python-programming-language-computer-programming-5aefaba2926b57.9208708715256564825997.png" width="200">
+
+
+### Minhas certificações
 <div align="center">
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/Certiprof_Scrum.png" width="200">
 <div>
