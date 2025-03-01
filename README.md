@@ -10,7 +10,7 @@
 
 ### **Meu plano de estudos:**
 
-- Mês 01: Fundamentos Essenciais - Linux, Redes, Git, Scripting
+- **Mês 01: Fundamentos Essenciais - Linux, Redes, Git, Scripting**
 
   - ~~Semana 01: Linux Básico~~
       -  Comandos essenciais: ls, cd, cp, mv, rm, chmod, chown, grep, awk, sed
@@ -36,7 +36,7 @@
       - Python básico (manipulação de arquivos, JSON, APIs)
       - Trabalhar com paramiko (automatizar SSH)
 
-- Mês 02: Redes e protocolos
+- **Mês 02: Redes e protocolos**
 
   - Semana 5 - Fundamentos de Docker
       - O que são containers e por que usar Docker
@@ -59,7 +59,7 @@
       - Criar Playbooks para configuração de servidores
       - nstalar pacotes e gerenciar permissões automaticamente
 
-- Mês 3: Monitoramento, Logging e CI/CD
+- **Mês 3: Monitoramento, Logging e CI/CD**
 
   - Semana 9 - Monitoramento com Prometheus e Grafana
       - Introdução ao Prometheus
@@ -81,7 +81,7 @@
       - Configuração do ArgoCD para Kubernetes
       - Deploy contínuo baseado em repositório Git
 
-- Mês 4: Cloud Computing e Segurança (DevSecOps)
+- **Mês 4: Cloud Computing e Segurança (DevSecOps)**
 
   - Semana 13 - AWS para DevOps
       - EC2, S3, IAM, Lambda
@@ -100,7 +100,7 @@
       - Princípios de segurança de identidade
       - Criar usuários e permissões seguras na AWS/Azure/GCP
 
-- Mês 5: Projetos Práticos e Certificações
+- **Mês 5: Projetos Práticos e Certificações**
 
   - Semana 17-20 - Projeto Final + Preparação para Certificações
       - Criar um projeto real:
