@@ -8,6 +8,12 @@
 
 ### Aqui, você encontrará projetos e aprendizados que refletem minha evolução como profissional de tecnologia. Espero que consigamos trocar conhecimentos e evoluir!
 
+### **Meu plano de estudos:**
+
+|                     Mês 01                       |Mês 02|Mês 03|Mês 04|Mês 05|
+|--------------------------------------------------|------|------|------|------|
+| Mês 1: Fundamentos (Linux, Redes, Git, Scripting)|||||
+
 
 ### **O que já estudei:**
 
