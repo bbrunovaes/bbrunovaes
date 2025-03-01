@@ -62,11 +62,8 @@
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/b2a16cd7fa6fcce08be55edd43f85006.png" width="100">
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/b27194c21c7371ddb8243d6d050bb892.png" width="100">
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/0e15cfc3b98ac7eeecb357056fc075fd.png" width="100">
-
-</p>
-
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/98a13244ca77b460e9db8c9fee56423f.png" width="100">
-
+</p>
 
 ### **Minhas certificações:**
 <div align="center">
