@@ -131,4 +131,3 @@
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/Certiprof_Scrum.png" width="200">
 <div>
 
-Este é um <span style="color:red">texto vermelho</span> e este é um <span style="color:blue">texto azul</span>.
