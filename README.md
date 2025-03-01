@@ -12,11 +12,11 @@
 
 - Mês 01: Fundamentos Essenciais - Linux, Redes, Git, Scripting
   - Semana 1:
-      🔹 Comandos essenciais: ls, cd, cp, mv, rm, chmod, chown, grep, awk, sed
-      🔹 Gerenciamento de processos: ps, top, kill, htop, systemctl
-      🔹 Permissões de arquivos (chmod, chown, groups)
-      🔹 Estrutura de diretórios do Linux
-      🔹 Criar primeiros scripts em Bash
+      - 🔹 Comandos essenciais: ls, cd, cp, mv, rm, chmod, chown, grep, awk, sed
+      - 🔹 Gerenciamento de processos: ps, top, kill, htop, systemctl
+      - 🔹 Permissões de arquivos (chmod, chown, groups)
+      - 🔹 Estrutura de diretórios do Linux
+      - 🔹 Criar primeiros scripts em Bash
 
 
 ### **O que já estudei:**
