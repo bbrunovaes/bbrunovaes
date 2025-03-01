@@ -1,1 +1,1 @@
-<img src="https://github.com/bbrunovaes/bbrunovaes/tree/main/IMG.GIT.README" width="300">
+<img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/Certiprof_Scrum.png" width="300">
