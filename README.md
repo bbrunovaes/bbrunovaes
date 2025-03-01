@@ -11,13 +11,21 @@
 ### **Meu plano de estudos:**
 
 - Mês 01: Fundamentos Essenciais - Linux, Redes, Git, Scripting
-  - Semana 1:
-      - 🔹 Comandos essenciais: ls, cd, cp, mv, rm, chmod, chown, grep, awk, sed
-      - 🔹 Gerenciamento de processos: ps, top, kill, htop, systemctl
-      - 🔹 Permissões de arquivos (chmod, chown, groups)
-      - 🔹 Estrutura de diretórios do Linux
-      - 🔹 Criar primeiros scripts em Bash
-
+  - Semana 01:
+      -  Comandos essenciais: ls, cd, cp, mv, rm, chmod, chown, grep, awk, sed
+      -  Gerenciamento de processos: ps, top, kill, htop, systemctl
+      -  Permissões de arquivos (chmod, chown, groups)
+      -  Estrutura de diretórios do Linux
+      -  Criar primeiros scripts em Bash
+  - Semana 02:
+      - Conceitos de TCP/IP, DNS, HTTP/HTTPS, SSH, FTP
+      - Comandos de rede: <ping>, traceroute, netstat, nmap, tcpdump
+      - Configuração de firewall básico (iptables, ufw)
+      - Introdução a Proxy e VPN 
+  - Semana 03:
+  - Semana 04: 
+- Mês 02: Redes e protocolos
+  - 
 
 ### **O que já estudei:**
 
