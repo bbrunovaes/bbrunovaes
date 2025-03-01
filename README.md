@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+<!-- CABEÇALHO -->
+#TITULO 1
+##TITULO 2
+###TITULO 3
+####TITULO 4
+#####TITULO 5
+######TITULO 6
+
+_ITALICO_ *ITALICO*
+__NEGRITO__ **NEGRITO**
+___NEGRITO E ITALICO___
+
+-LISTA 1
+-LISTA 2
+  -SUBLISTA
+  
 <!--
 **bbrunovaes/bbrunovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
