@@ -49,7 +49,7 @@
       - Arquitetura do Kubernetes
       - Introdução ao Minikube
       
-    - Semana 7 - Infraestrutura como Código (IaC) com Terraform
+  - Semana 7 - Infraestrutura como Código (IaC) com Terraform
       - O que é IaC e como o Terraform funciona
       - Criar e gerenciar recursos na AWS/Azure/GCP com Terraform
       - Conceitos de State e Modules
