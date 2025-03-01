@@ -8,7 +8,8 @@
 
 ### Atualmente, estou seguindo uma trilha de estudos focada em DevOps, aprofundando meus conhecimentos em CI/CD, Kubernetes, Docker, IaC, Cloud e Monitoramento. Meu objetivo é, ao final dessa jornada, aplicar para vagas de DevOps Júnior e obter certificações na área.
 
-### Aqui, você encontrará projetos e aprendizados que refletem minha evolução como profissional de tecnologia. Vamos trocar conhecimentos! 🚀
+### Aqui, você encontrará projetos e aprendizados que refletem minha evolução como profissional de tecnologia. Vamos trocar conhecimentos!
 
-
+<div align="center">
 <img src="https://github.com/bbrunovaes/bbrunovaes/blob/main/Certiprof_Scrum.png" width="200">
+<div>
