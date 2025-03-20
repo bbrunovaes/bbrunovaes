@@ -16,7 +16,7 @@
 
   - ~~Semana 02: Redes & Protocolos~~
 
-  - Semana 03: Controle de Versão (Git & GitHub)
+  - ~~Semana 03: Controle de Versão (Git & GitHub)~~
 
   - Semana 04: Scripting com Bash & Pytho
 
